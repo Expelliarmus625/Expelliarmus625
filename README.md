@@ -3,8 +3,8 @@
 ## I'm a Developer, Tech-Enthusiast and Full-time Learner!
 
 - 🔭 I’m currently working on expanding my portfolio
-- 🌱 I’m currently exploring UI/UX design
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently exploring DevOps Tools
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
