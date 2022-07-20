@@ -1,11 +1,11 @@
 ### Hi there, I'm Ojas👋
 
-## I'm a Developer, Tech-Enthusiast and Full-time Learner!
+## I'm a DevOps Engineer, Tech-Enthusiast and Full-time Learner!
 
 - 🔭 I’m currently working on expanding my portfolio
 - 🌱 I’m currently exploring DevOps Tools
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to play the guitar
 
 ### Connect with me:
 
