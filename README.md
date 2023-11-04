@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on expanding my portfolio
 - 🌱 I’m currently exploring DevOps Tools
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play the guitar
 
 ### Connect with me:
