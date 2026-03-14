@@ -2,10 +2,12 @@
 
 ## I'm a DevOps Engineer, Tech-Enthusiast and Full-time Learner!
 
-- 🔭 I’m currently working on expanding my portfolio
-- 🌱 I’m currently exploring DevOps Tools
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play the guitar
+Hello🙋🏻‍♂️
+I'm a DevOps and Cloud Engineer 👨‍💻 with over 4+ years of experience working in the industry. I have worked with a wide variety of DevOps tools and technologies such as AWS, Azure DevOps, Docker, Kubernetes, Infrastructure as Code (IaC) and CICD Pipelines with both Windows and Linux environments. I also have experience working on microservices architecture with advanced concepts such as service mesh (istio). 
+
+I'm an AWS Certified Solutions Architect and have 3+ years of experience working with AWS Tools and Services.
+
+I'm always on the lookout for new and interesting tech that I can add to my repertoire. You can read about some of my activities on my Medium blog. When I'm not working on DevOps projects, you can find me playing the Guitar 🎸 or exploring new places on my motorcycle 🏍️
 
 ### Connect with me:
 
